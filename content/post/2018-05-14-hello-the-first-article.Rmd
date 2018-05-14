@@ -1,0 +1,14 @@
+---
+title: hello,the first article
+author: Wulv
+date: '2018-05-14'
+slug: hello-the-first-article
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+# test
+
+a test page.
