@@ -9,7 +9,7 @@ tags:
   - 岁月神偷
 ---
 
-![岁月神偷](/post/2015-02-04-echoes_of_the_rainbow_files/syst.jpg)
+<img src="/post/2015-02-04-echoes_of_the_rainbow_files/syst.jpg" alt="" width="80%"/>
 
 > 岁月就是这个“神偷”，它偷走的就是岁月本身。
 

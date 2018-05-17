@@ -9,7 +9,7 @@ tags:
   - 小说
 ---
 
-![牡丹亭](/post/2018-05-14-the_peony_pavilion_files/the_peony_pavilion.jpg)
+<img src="/post/2015-04-11-the_peony_pavilion_files/the_peony_pavilion.jpg" alt="" width="80%"/>
 
 高中时通过日月经天的《读破才子心》来了解汤显祖的《牡丹亭》，上个月从图书馆借得上海古籍出版社的竖排版繁体注释本。
 
